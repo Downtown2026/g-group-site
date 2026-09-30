@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nivblu.github.io/g-group-site/sitemap.xml
