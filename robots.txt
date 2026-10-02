@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://downtown2026.github.io/g-group-site/sitemap.xml
